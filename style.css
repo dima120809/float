@@ -1,0 +1,26 @@
+body{
+    background-color: black
+}
+.p_1{
+    width: 350px;
+   color: rgb(255, 255, 0);
+}
+.img_1{
+    float: left;
+    width: 250px;
+}
+.container{
+    width: 1000px;
+}
+.p_2{
+   color: rgb(116, 49, 223);
+    float: left;
+    width: 350px;
+}
+.img_2{
+    float: left;
+    width: 250px;
+}
+.box{
+  width: 1000px;
+}
